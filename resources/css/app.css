@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#canvas3d {
+    width: 100% !important;  /* O el tamaño que desees */
+    height: 100% !important;  /* O el tamaño que desees */
+}
